@@ -107,11 +107,7 @@ I build:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/TheRealCeso?style=for-the-badge"/>
 
 </p>
 
