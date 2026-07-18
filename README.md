@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+awesome+projects.;Always+learning+new+things.;Coffee+%2B+Code+%3D+❤️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+awesome+projects.;Always+learning+new+things.;Vibes+%2B+Code+%3D+❤️" />
 </p>
 
 ---
