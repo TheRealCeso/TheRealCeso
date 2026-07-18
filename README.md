@@ -25,7 +25,6 @@ Hobbies:
 I build:
   - Fullstack Applications
   - Discord Bots
-  - Websites
   - FiveM Scripts and Metas
 ```
 
