@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • AI Enthusiast • Open Source Lover
+🚀 Full Stack Developer • Open Source • FiveM Developement
 </h3>
 
 <p align="center">
@@ -15,15 +15,18 @@
 # 💫 About Me
 
 ```yaml
-Name: DEIN_NAME
+Name: Ceso
 Location: Germany 🇩🇪
 Focus: Full Stack Development
-Learning: AI • Cloud • DevOps
+Learning: Cloud • DevOps
 Hobbies:
-  - Coding
-  - Gaming
-  - Coffee
+  - Coding 
   - Open Source
+I build:
+  - Fullstack Applications
+  - Discord Bots
+  - Websites
+  - FiveM Scripts and Metas
 ```
 
 ---
@@ -32,19 +35,15 @@ Hobbies:
 
 <p align="center">
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/TheRealCeso">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:mail@example.com">
+<a href="mailto:ceso.management@outlook.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://discord.com/users/ID">
+<a href="https://discord.com/users/1286758366034788433">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
 </a>
 
@@ -97,58 +96,6 @@ Hobbies:
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
 ![NGINX](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
