@@ -1,124 +1,106 @@
-Behalte all das und mach Glassmorphism Design rein einen Snake Animation und Terminal Abschnitt:
+```md
+<div align="center">
 
-<h1 align="center">
-  👋 Hey, ich bin Ceso
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F7FF,35:6A5ACD,70:8A2BE2,100:0F172A&text=CESO&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<h3 align="center">
-🚀 Full Stack Developer • Open Source • FiveM Developement
-</h3>
+# 👋 Hey, ich bin Ceso
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+awesome+projects.;Always+learning+new+things.;Coffee+%2B+Code+%3D+❤️" />
-</p>
+### 🚀 Full Stack Developer • Open Source • FiveM Development
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Building+awesome+projects...;Creating+Discord+Bots;Developing+FiveM+Scripts;Full+Stack+Developer;Cloud+%E2%80%A2+DevOps+%E2%80%A2+Open+Source;Coffee+%E2%98%95+%2B+Code+%3D+Success"/>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/TheRealCeso?label=Followers&style=for-the-badge&color=00F7FF&logo=github"/>
+<img src="https://img.shields.io/github/stars/TheRealCeso?label=Stars&style=for-the-badge&color=8A2BE2&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=TheRealCeso&style=for-the-badge&color=7B68EE"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vue,tailwind,python,java,cs,docker,linux,mongodb,mysql,postgres,redis,git,github,vscode&perline=10"/>
+
+</div>
 
 ---
-
-# 💫 About Me
-
-```yaml
-Name: Ceso
-Location: Germany 🇩🇪
-Focus: Full Stack Development
-Learning: Cloud • DevOps
-Hobbies:
-  - Coding 
-  - Open Source
-I build:
-  - Fullstack Applications
-  - Discord Bots
-  - Websites
-  - FiveM Scripts and Metas
 ```
 
----
+### Danach direkt diesen neuen Glassmorphism-"About Me"-Block einfügen:
 
-# 🌐 Connect with me
+````md
+# 💫 About Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/TheRealCeso">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<table>
+<tr>
+<td>
 
-<a href="mailto:ceso.management@outlook.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+```yaml
+╭──────────────────────────────────────╮
+│ 👤 Name       : Ceso                 │
+│ 🌍 Country    : Germany 🇩🇪          │
+│ 💻 Focus      : Full Stack           │
+│ 📚 Learning   : Cloud & DevOps       │
+│ ⚡ Status     : Building Projects... │
+╰──────────────────────────────────────╯
 
-<a href="https://discord.com/users/1286758366034788433">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
-</a>
+Builds:
+ • Fullstack Applications
+ • Discord Bots
+ • Websites
+ • FiveM Scripts & Metas
+```
 
-</p>
+</td>
+</tr>
+</table>
 
----
+</div>
+````
 
-# 💻 Tech Stack
+### Und diesen Terminal-Abschnitt vor den GitHub Stats:
 
-## Languages
+````md
+# 🖥️ Terminal
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)
+```console
+visitor@github:~$ whoami
 
----
+Ceso
 
-## Frontend
+visitor@github:~$ ls projects
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
+📁 Fullstack Apps
+📁 Discord Bots
+📁 Websites
+📁 FiveM Scripts
+📁 FiveM Metas
 
----
+visitor@github:~$ tech-stack
 
-## Backend
+✔ JavaScript
+✔ TypeScript
+✔ React
+✔ Next.js
+✔ Vue
+✔ Node.js
+✔ Express
+✔ FastAPI
+✔ Docker
+✔ Linux
 
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring)
+visitor@github:~$ status
 
----
+████████████████████ 100%
 
-## Database
+Currently building awesome things...
+```
+````
 
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
-
----
-
-## DevOps
-
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
-![NGINX](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx)
-
----
-
-# ⚡ Fun Fact
-
-> "Code never lies, comments sometimes do."
-
----
-
-<p align="center">
-
-<img src="https://img.shields.io/github/followers/TheRealCeso?style=for-the-badge"/>
-
-</p>
-
----
+```md
+# 🐍 Contribution Snake
 
 <p align="center">
-
-### ⭐ Thanks for visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
-
+<img src="https://raw.githubusercontent.com/TheRealCeso/TheRealCeso/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+```
